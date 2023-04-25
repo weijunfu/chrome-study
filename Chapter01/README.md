@@ -17,7 +17,7 @@
 }
 ```
 
-+ `manifest_version`指定清单文件格式的版本，目前版本为`3`。
++ `manifest_version`指定清单文件格式的版本，目前版本为`3`。 Chrome version 18+ 使用 `2`, Chrome version 88+ 使用 `3`。
 + `name`指定插件的名称
 + `version`指定插件的版本号
 + `description`简洁的介绍插件
